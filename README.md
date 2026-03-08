@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](image-1.png)
 # D.O.O.T. (Dropping Ordinance On Target)
 
 A simple, Python-based framework for executing commands and moving files to remote agents gracefully.
