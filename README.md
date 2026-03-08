@@ -1,4 +1,4 @@
-# D.O.O.T (Dropping Ordinance On Target)
+# D.O.O.T. (Dropping Ordinance On Target)
 
 A simple, Python-based framework for executing commands and moving files to remote agents gracefully.
 
